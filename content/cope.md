@@ -19,7 +19,7 @@ testimonial: "My greatest take-away from the experience is to always think custo
 
 # Search Engine Optimization (SEO)
 
-![](//localhost:1313/cope/img/sg best clean.jpg)
+![](//tanchongyong92.com/cope/img/sg best clean.jpg)
 
 SEO has always been an evolving puzzle to solve, and I had great joy in constant monitoring and optimizing the site for ranking.
 
