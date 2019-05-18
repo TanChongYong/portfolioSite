@@ -1,0 +1,38 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "My Portfolio Website"
+theme = "hugo-lodi-theme"
+
+[params]
+    theme_color = "#574CDD"
+    description = "Portfolio of Tan Chong Yong, Software Developer"
+    description_photo = "portfolio.jpg"
+    favicon = "CY logo.jpg"
+    logo = "penguin logo.png"
+    email = "tanchongyong92@gmail.com"
+    linkedin = "https://www.linkedin.com/in/tanchongyong/"
+
+[params.nav]
+    enable = true
+
+[params.hero]
+    enable = true
+    avatar = "cy.png"
+    subtitle = "Hi! I'm Chong Yong, a Software Developer from Singapore."
+    hero_right = ["**Currently doing development work for Standard Chartered Bank. Previously worked as a software developer intern in India at Extentia, Pune.**", "I am a firm believer of self-improvement and enjoys having conversations with others. Other than tech, I am interested in the startup space and will definitely venture out to be an entrepreneur sometime in the future. Whenever I am not geeking around, I would be out at the gym or having conversations with my friends.",
+    "Although I am fairly comfortable with programming, my true passion lies in bridging the gap between business and IT. I am currently seeking for roles that would put me in between tech and business.  ",
+     "I graduated from Singapore Management University in May 2018 with a Bachelor Degree in Information Systems."]
+    resume = "Tan Chong Yong_Resume.pdf"
+
+[params.process]
+    enable = false
+    title = "My Process"
+    subtitle = "Full Process Design"
+
+[params.case_studies]
+    enable = true
+    title = "Personal Projects"
+    subtitle = "Highlights of some of my personal projects"
+
+[params.footer]
+    enable = false
