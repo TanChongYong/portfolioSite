@@ -31,7 +31,7 @@ Once again, hooray for ranking first for that search term! :)
 
 # Next Steps
 
-![](//localhost:1313/cope/img/leaders.jpg)
+![](//tanchongyong92.com/cope/img/leaders.jpg)
 
 I had a blast working with Lewis, and due to pursuit of other interest we decided to focus on other areas of our career ahead. Although we are no
 longer operational, we are both still entrepreneurial in nature, and I look forward to the day where we can start another adventure together.

@@ -20,13 +20,13 @@ not many significant differences between the quality of the product. Most of it 
 
 # Canton Fair
 
-![](//localhost:1313/tedx/img/canton fair.jpg)
+![](//tanchongyong92.com/tedx/img/canton fair.jpg)
 
 I flew over to GuangZhou for the annual Canton Fair, where many suppliers would gather to display their products. Although the minimum order quantity (MOQ) is too high, I still learnt a lot by talking to different vendors to get data on the entire distribution process and OEM model.
 
 
 # Next Steps
 
-![](//localhost:1313/tedx/img/budget penguin.PNG)
+![](//tanchongyong92.com/tedx/img/budget penguin.PNG)
 
 I am currently still working on Budget Penguin during my free time, and I am excited at the new things that I will be learning about digital marketing. Will be updating my progress here!
