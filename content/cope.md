@@ -1,6 +1,6 @@
 ---
 weight: 1
-title: "Cope | Alexis Collado"
+title: "Happy Clean | Tan Chong Yong"
 description: "I mainly handled the digital journey of the site, from building the site ground up, hosting it and getting it ranked on Google via competitive search terms."
 nav_heading: "Happy Clean"
 thumbnail: "p1.png"
