@@ -3,7 +3,7 @@
 weight: 1
 
 # This is what appears as the tab's title
-title: "Cope | Tan Chong Yong"
+title: "Personal Portfolio | Tan Chong Yong"
 
 # This is the description in the <head> tag
 description: "I pursue self-improvement and spends much of my time thinking how to maximize efficiency."
@@ -34,13 +34,13 @@ case_feature_img: "featured-cope.jpg"
 case_summary: "Cope is an application that helps users track their mental health. Progress is measured through the use of a check-in system, calendar, medicine tracker and a summary dashboard. I created a minimum viable product for this application."
 
 # Your team members
-team: [Tan Chong Yong"]
+
 
 # Roles of your team members
-roles: ["Branding and Identity", "User Interface Design", "Prototyping", "User Research"]
+
 
 # Methods your team members used
-methods: ["Sketching", "Mockups", "Guerilla Testing"]
+
 
 # Links at the bottom of the case study and where they link to
 # img is the svg that's part of the button. You can use eyeball.svg or download.svg
@@ -67,7 +67,7 @@ testimonial_photo: "john.jpg"
 testimonial_author: "John Robert Palomo"
 
 # Testimonial subtitle, usually position of the testimonial author
-testimonial_subtitle: "Co-founder, Cope"
+testimonial_subtitle: "Co-founder, HappyClean"
 
 date: {{ .Date }}
 draft: false
